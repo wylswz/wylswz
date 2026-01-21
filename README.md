@@ -8,3 +8,5 @@ a
 .safety()
 .unwrap()
 ```
+
+God damn it.
