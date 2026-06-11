@@ -9,4 +9,4 @@ a
 .unwrap()
 ```
 
-God damn it.
+God [damn](https://wylswz.github.io/) it.
