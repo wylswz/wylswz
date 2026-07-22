@@ -1,5 +1,6 @@
 # Safety is NO.1 Priority
-[![GitHub Roast](https://githubroast.dev/api/card/wylswz)](https://githubroast.dev/u/wylswz)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/wylswz)](https://ghfind.com/u/wylswz?ref=badge)
+
 ```rust
 a
 .whole()
