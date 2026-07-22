@@ -1,5 +1,5 @@
 # Safety is NO.1 Priority
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/wylswz)](https://ghfind.com/u/wylswz?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/wylswz?theme=dark&variant=contrib&qr=1)](https://ghfind.com/u/wylswz?ref=badge)
 
 ```rust
 a
